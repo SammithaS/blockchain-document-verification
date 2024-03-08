@@ -236,7 +236,7 @@ const contractABI = [
   ];
 
 // Contract address
-const contractAddress = '0x979f550AD35154F42b95da7cc4055Bf5E562A2F5';
+const contractAddress = '0x9e19A2910745320006289412bcfE9E05F2e0da1d';
 
 // Initialize contract instance
 const contract = new web3.eth.Contract(contractABI, contractAddress);
